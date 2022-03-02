@@ -6,17 +6,6 @@
     overflow-x: unset;
 }
 
-/*.bitcoin-img-container {
-    width: 100%;
-    min-width: 320px;
-    height: 50vh;
-    background-image: url('../assets/img/bitcoinbaby2x.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    text-align: center;
-}*/
-
 .block-product-detail {
     justify-content: center;
     display: flex;
@@ -44,6 +33,4 @@
         padding-top: 100px;
         font-size: 10.4rem;
     }
-
-
 }
